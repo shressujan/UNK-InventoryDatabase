@@ -4,7 +4,7 @@
  * Contact: snoop_suzan@yahoo.com (If you want to work and improve on this project, shoot me an email)
  * This class  is for the adding, deleting, viewing, and updating the database
  * Last modified: 12-01-2016
- * 
+ * IMPORTANT NOTE: Author: Sujan Shrestha Reference: Olsen and Chevy's project
  * Note: 0000-00-00 is not a valid date in java while it is valid in SQL, hence the equivalence for (null or 0000-00-00 in SQL) is 0002-11-30 in java
  * */
 
